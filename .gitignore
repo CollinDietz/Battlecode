@@ -32,3 +32,4 @@ battlecode-scaffold.iws
 
 *.gradle
 gradle/wrapper/gradle-wrapper.properties
+test/examplefuncsplayer/RobotPlayerTest.java

@@ -17,6 +17,9 @@
 *.ipr
 *.iws
 /.idea/
+/.gradle/
+gradlew
+gradlew.bat
 
 
 # User-specific stuff:

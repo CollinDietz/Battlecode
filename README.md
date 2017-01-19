@@ -1,3 +1,9 @@
+
+Our player for battlecode 2017
+
+
+//Provided battle code directions
+
 Battlecode Project Scaffold
 ===========================
 
